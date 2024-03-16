@@ -1,5 +1,9 @@
 p {
     background-color: #ff5f8f;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
-    
+}
+
+#second {
+    font-color: #0000FF;
+    font-size: 36px;
 }
