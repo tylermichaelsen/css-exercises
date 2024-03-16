@@ -12,3 +12,7 @@ p {
     background-color:#89d489;
     font-weight: bold;
 }
+
+.sizeclass {
+    font-size: 24px;
+}
