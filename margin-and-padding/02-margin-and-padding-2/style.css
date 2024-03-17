@@ -31,4 +31,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
+  width: auto;
+  margin: auto;
 }
