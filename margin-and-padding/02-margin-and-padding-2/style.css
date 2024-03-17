@@ -22,6 +22,8 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  width: auto;
+  margin: auto;
 }
 
 button {
