@@ -56,4 +56,5 @@ ul {
 
 .right-elements {
   display: flex;
+  margin-left: auto;
 }
