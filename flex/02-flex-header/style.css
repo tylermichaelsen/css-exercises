@@ -32,3 +32,11 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+.right-links {
+  justify-content: flex-end;
+}
+
+.left-links {
+  justify-content: flex-start;
+}
