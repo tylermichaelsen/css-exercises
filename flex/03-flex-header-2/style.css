@@ -51,9 +51,9 @@ ul {
 }
 
 .left-elements {
-
+ display:flex;
 }
 
 .right-elements {
-
+  display: flex;
 }
