@@ -40,6 +40,7 @@ button {
   color: white;
   padding: 8px 24px;
   align-items: center;
+  align-self: center;
   height: 24px;
   display: flex;
 }
