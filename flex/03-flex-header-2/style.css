@@ -50,11 +50,11 @@ ul {
   gap: 16px;
 }
 
-.left-elements {
- display:flex;
+.right-elements {
+  margin-right: auto;
 }
 
-.right-elements {
+.right-elements, .left-elements {
   display: flex;
-  margin-left: auto;
+  gap: 8px;
 }
