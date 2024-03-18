@@ -35,8 +35,10 @@ a {
 
 .right-links {
   justify-content: flex-end;
+  margin-right: 12px;
 }
 
 .left-links {
   justify-content: flex-start;
+  margin-left: 12px;
 }
