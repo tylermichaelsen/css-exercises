@@ -39,10 +39,12 @@ input {
 
 .left-links {
   justify-content: flex-start;
+  margin-left: 16px;
 }
 
 .right-links {
   justify-content: flex-end;
+  margin-right: 16px;
 }
 
 li {
@@ -56,7 +58,7 @@ ul {
 .footer {
   display: flex;
   justify-content:  space-between;
-  background-color: #dddddd;
+  background-color: #eeeeee;
   margin-top: auto;
 }
 
