@@ -84,3 +84,7 @@ a {
   text-decoration: none;
   color: #494949
 }
+
+button {
+  padding: 8px
+}
