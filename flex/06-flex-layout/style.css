@@ -58,3 +58,9 @@ ul {
   justify-content:  space-between;
   background-color: #dddddd;
 }
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
