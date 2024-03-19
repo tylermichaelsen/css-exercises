@@ -57,6 +57,11 @@ ul {
   display: flex;
   justify-content:  space-between;
   background-color: #dddddd;
+  margin-top: auto;
+}
+
+.header {
+  margin-bottom: auto;
 }
 
 .buttons {
