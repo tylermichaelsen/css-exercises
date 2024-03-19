@@ -32,13 +32,16 @@ input {
   margin-bottom: 16px;
 }
 
-.left-links {
+.left-links, .right-links {
+  gap: 16px;
   display: flex;
+}
+
+.left-links {
   justify-content: flex-start;
 }
 
 .right-links {
-  display: flex;
   justify-content: flex-end;
 }
 
