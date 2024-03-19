@@ -43,3 +43,9 @@ input {
 li {
   list-style-type: none;
 }
+
+.footer {
+  display: flex;
+  justify-content:  space-between;
+  background-color: #dddddd;
+}
