@@ -40,6 +40,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  margin-right: 16px
 }
 
 .close-button {
@@ -83,4 +84,8 @@ button.cancel {
 
 .header {
   font-weight: bold;
+}
+
+.buttons {
+  margin-top: 8px;
 }
